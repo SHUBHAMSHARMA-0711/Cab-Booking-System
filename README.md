@@ -1,6 +1,6 @@
 # Cab Booking System
 
-An application designed for cab booking with features to automate user and application data using databases. The primary goal is to create a fast and reliable system for providing and managing real-time data related to cabs, drivers, bookings, etc. The application will handle extensive data manipulation requests, ensuring proper constraints and minimal redundancy, with data organization closely related to real-world entities
+An application designed for cab booking with features to automate user and application data using databases. The primary goal is to create a fast and reliable system for providing and managing real-time data related to cabs, drivers, bookings, etc. The application will handle extensive data manipulation requests, ensuring proper constraints and minimal redundancy, with data organization closely related to real-world entities.
 
 ## Technical Requirements
 
